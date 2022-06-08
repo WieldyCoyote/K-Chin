@@ -47,18 +47,23 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\Assets (pam\Scripts\interfaz.cs" />
      <Compile Include="Assets\DialogueEditor\Assets\Scripts\Parameter.cs" />
      <Compile Include="Assets\DialogueEditor\Assets\Scripts\EditableNode.cs" />
      <Compile Include="Assets\DialogueEditor\Assets\Scripts\ConversationNode.cs" />
+     <Compile Include="Assets\Assets (pam\Scripts\ChangeScene.cs" />
      <Compile Include="Assets\DialogueEditor\Assets\Scripts\EditableConnection.cs" />
      <Compile Include="Assets\DialogueEditor\Assets\Scripts\SetParamAction.cs" />
      <Compile Include="Assets\DialogueEditor\Assets\Scripts\Conversation.cs" />
+     <Compile Include="Assets\Assets (pam\Scripts\spriteChange.cs" />
      <Compile Include="Assets\DialogueEditor\Assets\Scripts\EditableParameter.cs" />
      <Compile Include="Assets\DialogueEditor\Assets\Scripts\EditableConversation.cs" />
      <Compile Include="Assets\DialogueEditor\Assets\Scripts\EditableSetParamAction.cs" />
      <Compile Include="Assets\scripts\appearButton.cs" />
      <Compile Include="Assets\scripts\mainMenu.cs" />
+     <Compile Include="Assets\Assets (pam\Scripts\SwitchCharacterScript.cs" />
      <Compile Include="Assets\DialogueEditor\Assets\Scripts\UI\ConversationManager.cs" />
+     <Compile Include="Assets\Assets (pam\Scripts\WheelController.cs" />
      <Compile Include="Assets\DialogueEditor\Assets\Scripts\Connection.cs" />
      <Compile Include="Assets\DialogueEditor\Assets\Scripts\UI\UIConversationButton.cs" />
      <Compile Include="Assets\DialogueEditor\Assets\Scripts\NPCConversation.cs" />
@@ -69,6 +74,7 @@
      <Compile Include="Assets\DialogueEditor\Assets\Scripts\Condition.cs" />
      <Compile Include="Assets\scripts\buttonConversation.cs" />
      <Compile Include="Assets\scripts\introCutscene.cs" />
+     <Compile Include="Assets\Assets (pam\Scripts\CamisetaFold.cs" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
